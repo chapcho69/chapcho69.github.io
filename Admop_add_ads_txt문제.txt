@@ -1,0 +1,11 @@
+ADMop에 광고를 게제한 후에 개발자 인증 관련 경고가 보인다.
+
+# 이 경고를 app-ads.txt 파일을 웹 사이트에 올려야 하는데, 이를 위해서는 다음의 절차가 필요하다.
+
+- 가상의 웹 사이트를 위해 github Pages를 생성한다.
+- 생성한 github pages에 app-ads.txt 파일을 생성한다. (ADMops에서 확인)
+- Play Console의 Store Setting 로 이동해서, 개발자 홈 페이지를 설정한다. https://githubpages.io 
+
+# Github pages를 생성할때, 자신의 ID로 하면 무료 웹 사이트가 생성된다. 다른 명칭도 사용할 수 있지만 무료는 아니다.
+
+
